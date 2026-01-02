@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.frozen.tutorialmod.mixin",
+	"package": "net.frozen.myfirstmod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

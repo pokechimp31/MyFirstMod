@@ -1,8 +1,8 @@
-package net.frozen.tutorialmod;
+package net.frozen.myfirstmod;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class TutorialModClient implements ClientModInitializer {
+public class MyFirstModClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 
